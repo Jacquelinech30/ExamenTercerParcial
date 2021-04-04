@@ -1,2 +1,0 @@
-# ExamenTercerParcial
-Peliculas Rentables
